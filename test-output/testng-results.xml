@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-13T14:55:06Z" name="Default suite" finished-at="2020-12-13T14:55:16Z" duration-ms="10111">
+    <groups>
+    </groups>
+    <test started-at="2020-12-13T14:55:06Z" name="Default test" finished-at="2020-12-13T14:55:16Z" duration-ms="10111">
+      <class name="com.WebTAproject.AddCustomerTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.WebTAproject.AddCustomerTest@7ef27d7f]" started-at="2020-12-13T15:55:06Z" name="setup" finished-at="2020-12-13T15:55:10Z" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addCustomerTest()[pri:0, instance:com.WebTAproject.AddCustomerTest@7ef27d7f]" started-at="2020-12-13T15:55:10Z" name="addCustomerTest" finished-at="2020-12-13T15:55:15Z" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTAproject.AddCustomerTest@7ef27d7f]" started-at="2020-12-13T15:55:15Z" name="tearDown" finished-at="2020-12-13T15:55:16Z" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WebTAproject.AddCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

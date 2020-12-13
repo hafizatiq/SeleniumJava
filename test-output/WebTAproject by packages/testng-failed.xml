@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [WebTAproject by packages]">
+  <test parallel="none" name="com.WebTAproject(failed)">
+    <classes>
+      <class name="com.WebTAproject.LoginPageTest">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="teadDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.WebTAproject.LoginPageTest -->
+    </classes>
+  </test> <!-- com.WebTAproject(failed) -->
+</suite> <!-- Failed suite [WebTAproject by packages] -->
